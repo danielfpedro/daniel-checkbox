@@ -1,0 +1,23 @@
+{
+  "name": "daniel-checkbox",
+  "homepage": "https://github.com/danielfpedro/daniel-checkbox",
+  "authors": [
+    "Daniel Pedro <danielfpedro@gmail.com>"
+  ],
+  "description": "Pure css lightweight custom checkbox.",
+  "main": "",
+  "keywords": [
+    "checkbox",
+    "pure",
+    "css",
+    "lightweight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
