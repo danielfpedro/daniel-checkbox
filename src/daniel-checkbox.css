@@ -51,7 +51,7 @@ input[type=checkbox]:checked + label:after {
 }
 .checkbox input[type=checkbox]:disabled + label:before, .checkbox input[type=checkbox]:disabled + label {
   opacity: 0.8;
-  pointer-events: none;
+  cursor: not-allowed;  
 }
 /*Default*/
 .checkbox input[type=checkbox]:checked + label:before {
