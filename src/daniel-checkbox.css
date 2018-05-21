@@ -2,9 +2,21 @@
   position: relative;
   padding: 5px 0 5px 6px;
   text-align: left;
+  background-color: red;
+}
+.checkbox-solo {
+  display: inline-block; 
+  /**Deve ser da largura do quadrado**/
+  width: 15px;
 }
 .checkbox label {
   cursor: pointer;
+  margin-left: 25px;
+  margin-top: -5px;
+}
+.checkbox-solo label {
+  margin-left: 0;
+  margin-top: -0;
 }
 .checkbox label:before, .checkbox label:after {
     content: '';
