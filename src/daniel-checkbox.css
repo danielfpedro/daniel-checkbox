@@ -3,6 +3,8 @@
   padding: 5px 0 5px 6px;
   text-align: left;
   background-color: red;
+  width: auto;
+  display: table;
 }
 .checkbox-solo {
   display: inline-block; 
