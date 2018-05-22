@@ -2,13 +2,14 @@
   position: relative;
   padding: 5px 0 5px 6px;
   text-align: left;
-  width: auto;
-  display: inline-block;
 }
 .checkbox-solo {
   display: inline-block; 
   /**Deve ser da largura do quadrado**/
   width: 15px;
+}
+.checkbox-inline {
+  display: inline;
 }
 .checkbox label {
   cursor: pointer;
